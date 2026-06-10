@@ -1,4 +1,4 @@
-## Never mess with the mafia boss and his gang / goons
+## Never mess with the mafia boss and his gang / goons.
 
   ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/fcb2394ed0475232ff7869705fe24c6a7c5df39c/Screenshot%202026-06-05%20200415.png)
 
