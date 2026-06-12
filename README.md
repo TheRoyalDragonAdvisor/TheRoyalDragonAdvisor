@@ -1,6 +1,6 @@
 ## If your reading this, your all welcome to read my read.me 
 
-# Might be " Sleeping, Drawing, Afk, Semi-afk or Watching."
+# Might be " Sleeping, Drawing, Afk, Semi-afk, Listening to music or Watching."
 
 
 
