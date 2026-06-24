@@ -20,7 +20,7 @@
   
   
  <details>
-   <summary><ins>about Pony Town</ins></summary>
+   <summary><ins>About Pony Town</ins></summary>
    <p>I allowed cuddles and piles when im with people. Also do not cover or copy my Spike cosplay, I will not allowed that.</p>
    <p>I may be afk or semi-afk but i may be online every year well sometimes.</p>
    <p>Free to W2I, there's chances to see the message.</p>
