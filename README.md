@@ -1,4 +1,4 @@
-
+<br>
    <small><b>"The Dragon King"</b></small>
  
  <p align="center">
@@ -54,7 +54,7 @@
 
 
    ## Questions - Why i don't ship Spike with other canons and fanons?
-   <p>Shipping Spike with other canon and fanons may caused a  sex or heat shippers to appeared. Like shipping rarity x spike, etc.
+   <p>Shipping Spike with other canon and fanons may caused a  sex or heat shippers to appeared. Like shipping rarity x spike, etc, and more.
 
   
   
