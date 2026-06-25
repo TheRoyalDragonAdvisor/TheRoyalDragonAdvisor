@@ -1,6 +1,5 @@
 <br>
 
-
    <small><b>"The Dragon King"</b></small>
  
  <p align="center">
