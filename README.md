@@ -65,7 +65,9 @@
 
    
  <br>
-
+ 
+ <details>
+    
  <summary><inst>How to be friends with me?</inst></summary>
     
    <p>Well if you want to be friends with me, you have to talk / whispering to me alot.</p>
