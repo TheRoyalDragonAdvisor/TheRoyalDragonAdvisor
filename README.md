@@ -16,7 +16,7 @@
 
 
  <details>
-           <summary><ins>About Myself</ins></summary>
+ <summary><ins>About Myself</ins></summary>
 
 <p>Hello, my name is Spike and my birthday is on 9 of November.</p>
 <p>Nicknames: Spike, Spine and Spire.</p>
