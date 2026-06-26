@@ -10,7 +10,7 @@
    <small><b>"The Dragon King"</b></small>
  
  <p align="center">
- <right><sub>The underline words are clickabled.</sub></right>
+ <sub>The underline words are clickabled.</sub>
 </p>
 <br>
 
