@@ -141,7 +141,7 @@
    <p>I do not feel uncomfortable sitting with a sex or heat shipper.</p>
  </div>
 </details>
-<br>
+
 
    <details>
   <summary><inst>Games i usually like</inst></summary>
@@ -151,7 +151,7 @@
   <p>Ragdoll Archers(Crazygame), Roblox, Minecraft, Blockblast, Cat & Soup(Netflix Game), Wildcraft, Storyteller(Netflix Game).</p>
    </div>
 </details>
-<br>
+
 
 
 
@@ -173,7 +173,7 @@
    </details>
 
  <br>
-
+<div align="center">
   <details>
   <summary><int>Favourite Shows</int></summary>
      
