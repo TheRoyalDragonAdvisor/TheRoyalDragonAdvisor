@@ -202,6 +202,7 @@
 ## ꧁༒ɴᴏᴛ ᴀʙʟᴇ ᴛᴏ ʀᴇᴀᴅ ᴏʀ ʀᴇsᴘᴏɴᴅ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ. ɪғ ʏᴏᴜ ᴋᴇᴇᴘ ᴏɴ sᴘᴀᴍ ᴡʜɪsᴘᴇʀ...༒꧂
 
 <div align="center">
+   
 <img width="220" height="227" alt="Image" src="https://github.com/user-attachments/assets/ce2041ac-2087-4e3f-a7d8-dca8c74778c7" />
 
 
@@ -226,6 +227,7 @@
  ## ꧁༒sʟᴇᴇᴘɪɴɢ...༒꧂
  
 <div align="center">
+   
 <img width="220" height="228" alt="Image" src="https://github.com/user-attachments/assets/635601f9-8858-4be3-8428-b1fb3b36754c" />
 
 
@@ -239,21 +241,24 @@
  
 ## ꧁༒ᴅᴏɪɴɢ ᴍʏ ʜᴏᴍᴇᴡᴏʀᴋ ᴏʀ ʙᴇɪɴɢ ʙᴜsʏ ɪʀʟ...༒꧂
 
-<p align="center">
+<div align="center">
+   
 <img width="216" height="337" alt="Image" src="https://github.com/user-attachments/assets/3586cd79-73d0-4e04-92b6-d8998b915851" />
 
 
 
 
 ##  ꧁༒ʀᴇᴀᴅɪɴɢ...༒꧂
-<p align="center">
+<div align="center">
+   
 <img width="220" height="288" alt="Image" src="https://github.com/user-attachments/assets/e533da43-1b8d-4971-bc22-46f75c79ffbf" />
 
 
 
 
 ## ꧁༒ᴇᴀᴛɪɴɢ...༒꧂
-<p align="center">
+<div align="center">
+   
 <img width="222" height="229" alt="Image" src="https://github.com/user-attachments/assets/ac09d4e7-d3ed-4ed6-8331-76a3133316dd" />
 
 
