@@ -31,7 +31,8 @@
  <p>Twilight is my friend; I always support her, and I always have her back.</p>
  <p>I will block you if you start harassing my friends.</p>
  <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
-
+<p align="center">
+   
  </div>
  </details>
 
@@ -52,7 +53,7 @@
  <p>I will not respond to a spam whisper.</p>
  <p>Always active, I won't disconnect the game whenever I'm AFK or semi-AFK.</p>
  <p>I don't assume that much; I'll allow you to wear Twilight if you want my attention.</p>
-
+<p align="center">
  </div>
  </details>
 
@@ -70,7 +71,7 @@
  <p>If you're willing to be my friend, you have to chat calmly.</p>
  <p>I do not like nonpatiences if they're willing to me to accept their friend requests.</p>
  <p>Whisper to me if you want to talk or be friends with me. I'll even ask if you're 18+ or under 12 years old.</p>
-  
+  <p align="center">
 
 
    </div>
@@ -86,7 +87,7 @@
     <p>My hobbies are playing, watching, listening to music, and drawing.</p>
     <p>I do not like getting disturbed whenever I'm watching and playing.</p>
     <p>You are free to whisper to me when I'm listening to music or drawing.</p>
-
+  <p align="center">
 
 
    </div>
