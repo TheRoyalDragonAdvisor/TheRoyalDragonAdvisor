@@ -18,16 +18,16 @@
  <details>
  <summary><ins>About Myself</ins></summary>
 
-<p>Hello, my name is Spike and im 23 years old, my birthday is on 9 of November.</p>
+<p>Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
 <p>Nicknames: Spike, Spine and Spire.</p>
-<p>I only speak English and Filipino -sometimes a little.</p>
-<p>A Nonshippers : ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
-<p>I avoid blocking either being toxic and harassing.</p>
-<p>I sit with my friend name Twilight Sparkle.</p>
-<p>I usually like shipping Rairty and Spike but in game, I usually don't.</p>
-<p>Twilight is my friend, I always support her and I always got her back.</p>
+<p>I only speak English and Filipino—sometimes a little.</p>
+<pNonshippers: ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
+<p>I avoid blocking either toxicity or harassment.</p>
+<p></p>Was born in the Philippines.</p></p>
+<p>I usually like shipping Rarity and Spike, but in-game, I usually don't.</p>
+<p>Twilight is my friend; I always support her, and I always have her back.</p>
 <p>I will block you if you start harassing my friends.</p>
-<p>I do not like seeing weird sus or freaky skins sitting or cuddeling with me when im afk or semi-afk.</p>
+<p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
 
  </div>
  </details>
@@ -37,17 +37,17 @@
   
   <details>
    <summary><ins>About Pony Town</ins></summary>
- <p>I allowed cuddles and piles when im with people. Also do not cover or copy my Spike cosplay, I will not allowed that.</p>
- <p>I may be afk or semi-afk but i may be online every year well sometimes.</p>
- <p>Free to W2I, there's chances that i might see the messages.</p>
- <p>I do not want spam whispers when im afk or semi afk.</p>
- <p>Always afk or semi-afk either away from keyboard.</p>
- <p>Do not try harass or spam with whispers when im afk or semi-afk.</p>
+ <p>I allow cuddles and piles when I'm with people. Also, do not cover or copy my Spike cosplay; I will not allow that.</p>
+ <p>I may be AFK or semi-AFK, but I may be online every year, well, sometimes.</p>
+ <p>Free to W2I, there's a chance that I might see the messages.</p>
+ <p>I do not want spam whispers when I'm AFK or semi-AFK.</p>
+ <p>Always AFK or semi-AFK, away from keyboard.</p>
+ <p>Do not try to harass or spam with whispers when I'm AFK or semi-AFK.</p>
  <p>Don't try make fun of me and my friends.</p>
  <p>I avoid being bullied, spammed, and harassed.</p>
- <p>I will not response to a spam whisper.</p>
- <p>ALways active, I won't disconnect the game whenever im afk or semi-afk.</p>
-<p>I don't assume that much, I'll allowed u you wear Twilight.</p>
+ <p>I will not respond to a spam whisper.</p>
+ <p>Always active, I won't disconnect the game whenever I'm AFK or semi-AFK.</p>
+<p>I don't assume that much; I'll allow you to wear Twilight if you want my attention.</p>
 
  </div>
  </details>
@@ -56,15 +56,15 @@
 
   <details>
          <summary><ins>⚠️Do not Befriend with me.⚠️</ins></summary>
-         <p>Under 12 years old, I will not accept either be friends with under 12 years old.</p>
-         <p>Above 18+ or 13+ i will accept it.</p>
-         <p>I avoid being friend request by under 12 years old.</p>
-         <p>Copying me or my friends is a dangerous decisions and awful action. I will block you for copying me or my friends.</p>
-         <p>Tired and Sleepy. (needs some rest.)</p>
-         <p>I do not like getting disturb of my rest by spam whispering. Whispering me when im sleeping its fine.</p>
-         <p>If your willing to be my friend, you have to chat calmly.</p>
+         <p>Under 12 years old, I will not accept being friends with anyone under 12 years old.</p>
+         <p>Above 18+ or 13+, I will accept it.</p>
+         <p>I avoid being friend-requested by people under 12 years old.</p>
+         <p>Copying me or my friends is a dangerous decision and awful action. I will block you for copying me or my friends.</p>
+         <p>Tired and sleepy. (Needs some rest.)</p>
+         <p>I do not like getting disturbed in my rest by spam whispering. Whispering to me when I'm sleeping is fine.</p>
+         <p>If you're willing to be my friend, you have to chat calmly.</p>
          <p>I do not like nonpatiences if they're willing to me to accept their friend requests.</p>
-         <p>Whisper me if u want to talk either be friends with me. I'll even ask if ur above 18+ or under 12 years old.</p>
+         <p>Whisper to me if you want to talk or be friends with me. I'll even ask if you're 18+ or under 12 years old.</p>
   
 
 
@@ -75,11 +75,11 @@
    
    <details>
     <summary><inst>Favourite Colors and Hobbies.</inst></summary>
-    <p>I mostly like Orange, Pink, and Purple. -Its just my choice. Im not gay.</p>
+    <p>I mostly like orange, pink, and purple. It's just my choice. I'm not gay.</p>
     <p>I like watching animals, guns, and dragons.</p>
-    <p>My hobbies are playing, watching, listening music and drawing.</p>
-    <p>I do not like getting disturbed whenever im watching, drawing and playing.</p>
-    <p>You are free to whisper me when im listening to music.</p>
+    <p>My hobbies are playing, watching, listening to music, and drawing.</p>
+    <p>I do not like getting disturbed whenever I'm watching and playing.</p>
+    <p>You are free to whisper to me when I'm listening to music or drawing.</p>
 
 
 
@@ -97,14 +97,14 @@
    
   <summary><inst>How to be friends with me?</inst></summary>
     
-   <p>Well if you want to be friends with me, you have to talk / whispering to me alot.</p>
-   <p>I avoid talking / whispering under 12 years old.</p>
-   <p>I like to talk / whisper alot even when im bored.</p>
-   <p>Do not be a stranger, If you are, i will not able response ur message.</p>
-   <p>Free to interact when im listening to musics.</p>
-   <p>I usually like people cuddeling me either sitting with me. I really don't care if i sit alone.</p>
-   <p>If your not feeling well, not in mood or upset. I might whisper / response you.</p>
-   <p>I do not waant to be friends with a Tut skins, toxic ships, etc., and more.</p>
+   <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
+   <p>I avoid talking / whispering if under 12 years old.</p>
+   <p>I like to talk / whisper a lot even when I'm bored.</p>
+   <p>Stay in touch; otherwise, I cannot respond to your message.</p>
+   <p>Free to interact by whisper when I'm listening to music and drawing.</p>
+   <p></p>I usually like people cuddling me or sitting with me. I really don't care if I sit alone.</p>
+   <p>If you're not feeling well, not in the mood, or upset. I might whisper / respond to you.</p>
+   <p>I do not want to be friends with a Tut skins, toxic ships, etc., and more.</p>
 
 <br> 
 
@@ -120,18 +120,18 @@
 
   <details>
    <summary><inst>⚠️Warning/Caution⚠️</inst></summary>
-   <p> Interacting / Disturbing / Interupting me its a extreme caution, I might bite you if YOU dot that.</p>
-   <p>Might think your cool and awesome.</p>
-   <p>I sleep peacefully, drawing peacefully, play peacefully and listen to music peacefully. But sometimes people might disturb either interupt me.</p>
-   <p>My brain might feel dizzy meaning i feel tired.</p>
-   <p>Don't copy either cover my Spike cosplay whenever im afk or semi-afk</p>
-   <p>Might be aggresive or get snap if you bully or roast random people sitting either cuddeling with me.</p>
-   <p>Feeling tired about my school works and stuffs.</p>
-   <p>If your trying to flex me with your peak skins when im active, i really don't care.</p>
-   <p>Don't be rude to random people sitting or cuddeling with me.</p>
-   <p>Be kind to my friends and random peoples.</p>
-   <p>I'll think of my mind if your cool, awesome, good or bad.</p>
-   <p>Do not ship TWILIGHT AND SPIKE. I do not like that ship because Twilight and Spike are friends either familys.</p>
+   <p>Interacting / Disturbing / Interrupting me is an extreme caution; I might bite you if YOU do that.</p>
+   <p>Might think you're cool and awesome.</p>
+   <p>I sleep peacefully, draw peacefully, play peacefully, and listen to music peacefully. But sometimes people might disturb or interrupt me for no reason.</p>
+   <p>My brain might feel fuzzy, meaning I feel tired.</p>
+   <p>Don't copy either cover my Spike cosplay whenever I'm AFK or semi-AFK.</p>
+   <p>Might be aggressive or get snappy if you bully or roast random people sitting or cuddling with me.</p>
+   <p>Feeling tired about my schoolwork and stuff.</p>
+   <p>If you're trying to flex on me with your peak skins when I'm active, I really don't care.</p>
+   <p>Don't be rude to random people whenever they are sitting or cuddling with me.</p>
+   <p>Be kind to my friends and random people.</p>
+   <p>I'll make up my mind if you're cool, awesome, good, or bad.</p>
+   <p>Do not ship TWILIGHT AND SPIKE. I do not like that ship because Twilight and Spike are friends.</p>
    
 
 
@@ -145,9 +145,9 @@
 
   <details>
    <summary><inst>Questions - Why i don't ship Spike with other canons and fanons?</inst></summary>
-   <p>Shipping Spike with other canon and fanons may caused a  sex or heat shippers to appeared. Like shipping rarity x spike, etc, and more.</p>
-   <p>I rather avoid sex or heat shippers whenever im afk or semi-afk.</p>
-   <p>I not feel uncomfortable sitting with a sex or heat shippers.</p>
+   <p>Shipping Spike with other canons and fanons may cause sex or heat shippers to appear. Like shipping rarity x spike, etc., and more.</p>
+   <p>I'd rather avoid sex or shippers whenever I'm AFK or semi-AFK.</p>
+   <p>I do not feel uncomfortable sitting with a sex or heat shipper.</p>
 
 
 
@@ -158,7 +158,7 @@
 
    <details>
   <summary><inst>Games i usually like</inst></summary>
-  <p>I played allot of games i remembered alot of them.</p>
+  <p>I played a lot of games; I kind of remembered a lot of them.</p>
   <p>Ragdoll Archers(Crazygame), Roblox, Minecraft, Blockblast, Cat & Soup(Netflix Game), Wildcraft, Storyteller(Netflix Game).</p>
 
   <br> 
@@ -173,7 +173,7 @@
 
    <details>
    <summary><int>Animals I like</int></summary>
-   <p>Dinosaurs - T-Rex, Velociraptor, Indominus Rex, Distortus Rex, and Pterodactyl. Dogs: German Shepherd, Doberman, and Husky. Animals: Crocodiles, Alligators, Snakes, Spiders, Tiger, Lion, Cheetah, and Hyena.</p>
+   <p>Dinosaurs: T-Rex, Velociraptor, Indominus Rex, Distortus Rex, and Pterodactyl. Dogs: German Shepherd, Doberman, and Husky. Animals: Crocodiles, Alligators, Snakes, and Spiders.</p>
 
 
 
@@ -229,7 +229,7 @@
  <br> 
 
 
-## She always got my side.. Thank you Twilight. 
+## She always got my side. Thank you, Twilight. 
 
  
 <img width="222" height="325" alt="Image" src="https://github.com/user-attachments/assets/bbb10e4f-0ec7-4950-af85-5903ee7899ab" />
@@ -245,7 +245,7 @@
  <br> 
 
 
- ## Don't Disturb or Interupt my Rest.
+ ## Sleepy.
 
 <img width="220" height="228" alt="Image" src="https://github.com/user-attachments/assets/635601f9-8858-4be3-8428-b1fb3b36754c" />
 
@@ -258,7 +258,7 @@
  <br> 
 
  
-## Doing my homework or at School.
+## Doing my homework at school.
 
 
 
