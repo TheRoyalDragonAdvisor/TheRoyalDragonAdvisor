@@ -178,7 +178,7 @@ ________________________________________________________________________________
    <details>
    <summary><ins>|ᴀɴɪᴍᴀʟs ɪ ʟɪᴋᴇ ᴀʀᴇ...|:</ins></summary>
       
-   <div align="center">
+<div align="center">
    <p>Dinosaurs: T-Rex, Velociraptor, Indominus Rex, Distortus Rex, and Pterodactyl. Dogs: German Shepherd, Doberman, and Husky. Animals: Crocodiles, Alligators, Snakes, Bears, Lizards, Pandas (Red Pandas as well), Dragons, and Spiders.</p>
       </div>
 </details>
